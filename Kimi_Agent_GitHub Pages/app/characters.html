@@ -1,0 +1,69 @@
+<!doctype html>
+<html lang="ru" data-theme="dark">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="Аура Ksury: коллекция кинематографичных карточек с культовыми персонажами и цитатами в оригинале.">
+  <meta name="theme-color" content="#050505">
+  <title>Аура — Ksury</title>
+  <link rel="icon" href="./assets/favicon.svg" type="image/svg+xml">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;500&family=Manrope:wght@400;500;600;700;800&family=PT+Serif:ital,wght@1,400&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="./assets/home-progressive.css">
+  <link rel="stylesheet" href="./assets/aura-progressive.css">
+</head>
+<body class="progressive-home aura-page">
+  <a class="skip-link" href="#content">Перейти к содержимому</a>
+  <div class="page-geometry" aria-hidden="true"><span></span><span></span><span></span></div>
+
+  <header class="site-header" id="top">
+    <div class="shell header-inner">
+      <a class="brand" href="./index.html" aria-label="Ksury — на главную">Ksury<span class="brand-mark" aria-hidden="true">/</span></a>
+      <nav class="main-nav" aria-label="Основная навигация">
+        <a href="./index.html#stack" data-nav="ml"><span>01</span>Стек</a>
+        <a href="./music.html" data-nav="music"><span>02</span>Альбомы</a>
+        <a href="./characters.html" data-nav="characters" aria-current="page"><span>03</span>Аура</a>
+      </nav>
+    </div>
+  </header>
+
+  <main class="aura-collection" id="content" aria-label="Коллекция карточек персонажей">
+    <h1 class="sr-only">Аура</h1>
+    <div class="aura-grid">
+      <article class="aura-card aura-card-arthas" id="arthas" data-name="Артас Менетил" aria-label="Артас Менетил">
+        <span class="aura-tape" aria-hidden="true"></span>
+        <div class="aura-card-image">
+          <img class="aura-image aura-image-arthas" src="./assets/characters/arthas.webp" alt="Артас Менетил в образе Короля-лича" width="1920" height="1080" fetchpriority="high">
+        </div>
+        <blockquote class="aura-quote" lang="en"><p>I see only darkness before me.</p></blockquote>
+      </article>
+
+      <article class="aura-card aura-card-luke" id="luke" data-name="Люк Скайуокер" aria-label="Люк Скайуокер">
+        <span class="aura-tape" aria-hidden="true"></span>
+        <div class="aura-card-image">
+          <img class="aura-image aura-image-luke" src="./assets/characters/luke.webp" alt="Люк Скайуокер в чёрном костюме джедая" width="1200" height="675" loading="lazy">
+        </div>
+        <blockquote class="aura-quote" lang="en"><p>I am a Jedi, like my father before me.</p></blockquote>
+      </article>
+
+      <article class="aura-card aura-card-andy" id="andy" data-name="Энди Дюфрейн" aria-label="Энди Дюфрейн">
+        <span class="aura-tape" aria-hidden="true"></span>
+        <div class="aura-card-image">
+          <img class="aura-image aura-image-andy" src="./assets/characters/andy.webp" alt="Энди Дюфрейн стоит под дождём с раскинутыми руками" width="1600" height="1200" loading="lazy">
+        </div>
+        <blockquote class="aura-quote aura-quote-long" lang="en"><p>Hope is a good thing, maybe the best of things, and no good thing ever dies.</p></blockquote>
+      </article>
+
+      <article class="aura-card aura-card-saul" id="saul" data-name="Сол Гудман" aria-label="Сол Гудман">
+        <span class="aura-tape" aria-hidden="true"></span>
+        <div class="aura-card-image">
+          <img class="aura-image aura-image-saul" src="./assets/characters/saul.webp" alt="Сол Гудман рядом с рекламным билбордом Better Call Saul" width="2200" height="1467" loading="lazy">
+        </div>
+        <blockquote class="aura-quote" lang="en"><p>Better call Saul!</p></blockquote>
+      </article>
+    </div>
+  </main>
+  <script type="module" src="./src/aura.js"></script>
+</body>
+</html>

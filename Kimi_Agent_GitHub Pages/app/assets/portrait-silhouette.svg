@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 1000" role="img" aria-labelledby="title desc">
+  <title id="title">Силуэт для будущей фотографии</title>
+  <desc id="desc">Нейтральный монохромный силуэт, не изображающий реального человека.</desc>
+  <rect width="800" height="1000" fill="#f2f2f2"/>
+  <path d="M400 124c-107 0-181 83-181 207 0 88 34 159 91 197l-13 93-54 20c-111 42-161 153-174 359h662c-13-206-63-317-174-359l-54-20-13-93c57-38 91-109 91-197 0-124-74-207-185-207Z" fill="#171717"/>
+  <path d="M64 72h64M64 72v64M736 928h-64M736 928v-64" fill="none" stroke="#a3a3a3" stroke-width="2"/>
+</svg>

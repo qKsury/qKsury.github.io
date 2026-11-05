@@ -1,0 +1,555 @@
+{
+  "demo": false,
+  "albums": [
+    {
+      "artist": "Sum 41",
+      "title": "All Killer, No Filler",
+      "year": 2001,
+      "cover": "./assets/covers/sum-41-all-killer-no-filler.webp",
+      "tracks": [
+        "Introduction to Destruction",
+        "Nothing On My Back",
+        "Never Wake Up",
+        "Fat Lip",
+        "Rhythms",
+        "Motivation",
+        "In Too Deep",
+        "Summer",
+        "Handle This",
+        "Crazy Amanda Bunkface",
+        "All She's Got",
+        "Heart Attack",
+        "Pain for Pleasure"
+      ]
+    },
+    {
+      "artist": "Scorpions",
+      "title": "Animal Magnetism",
+      "year": 1980,
+      "cover": "./assets/covers/scorpions-animal-magnetism.webp",
+      "tracks": [
+        "Make It Real",
+        "Don't Make No Promises (Your Body Can't Keep)",
+        "Hold Me Tight",
+        "Twentieth Century Man",
+        "Lady Starlight",
+        "Falling In Love",
+        "Only a Man",
+        "The Zoo",
+        "Animal Magnetism"
+      ]
+    },
+    {
+      "artist": "Guns N' Roses",
+      "title": "Appetite for Destruction",
+      "year": 1987,
+      "cover": "./assets/covers/guns-n-roses-appetite-for-destruction.webp",
+      "tracks": [
+        "Welcome To The Jungle",
+        "It's So Easy",
+        "Nightrain",
+        "Out Ta Get Me",
+        "Mr. Brownstone",
+        "Paradise City",
+        "My Michelle",
+        "Think About You",
+        "Sweet Child O' Mine",
+        "You're Crazy",
+        "Anything Goes",
+        "Rocket Queen"
+      ]
+    },
+    {
+      "artist": "Scorpions",
+      "title": "Blackout",
+      "year": 1982,
+      "cover": "./assets/covers/scorpions-blackout.webp",
+      "tracks": [
+        "Blackout",
+        "Can't Live Without You",
+        "No One Like You",
+        "You Give Me All I Need",
+        "Now!",
+        "Dynamite",
+        "Arizona",
+        "China White",
+        "When the Smoke Is Going Down"
+      ]
+    },
+    {
+      "artist": "My Chemical Romance",
+      "title": "The Black Parade",
+      "year": 2006,
+      "cover": "./assets/covers/my-chemical-romance-the-black-parade.webp",
+      "tracks": [
+        "The End.",
+        "Dead!",
+        "This Is How I Disappear",
+        "The Sharpest Lives",
+        "Welcome to the Black Parade",
+        "I Don't Love You",
+        "House of Wolves",
+        "Cancer",
+        "Mama",
+        "Sleep",
+        "Teenagers",
+        "Disenchanted",
+        "Famous Last Words",
+        "Blood (Hidden Track)"
+      ]
+    },
+    {
+      "artist": "Scorpions",
+      "title": "Crazy World",
+      "year": 1990,
+      "cover": "./assets/covers/scorpions-crazy-world.webp",
+      "tracks": [
+        "Tease Me Please Me",
+        "Don't Believe Her",
+        "To Be with You In Heaven",
+        "Wind of Change",
+        "Restless Nights",
+        "Lust or Love",
+        "Kicks After Six",
+        "Hit Between the Eyes",
+        "Money and Fame",
+        "Crazy World",
+        "Send Me an Angel"
+      ]
+    },
+    {
+      "artist": "Queen",
+      "title": "Hot Space",
+      "year": 1982,
+      "cover": "./assets/covers/queen-hot-space.webp",
+      "tracks": [
+        "Staying Power",
+        "Dancer",
+        "Back Chat",
+        "Body Language",
+        "Action This Day",
+        "Put Out The Fire",
+        "Life Is Real (Song For Lennon)",
+        "Calling All Girls",
+        "Las Palabras De Amor (The Words of Love)",
+        "Cool Cat",
+        "Under Pressure (feat. David Bowie)"
+      ]
+    },
+    {
+      "artist": "Scorpions",
+      "title": "Humanity: Hour I",
+      "year": 2007,
+      "cover": "./assets/covers/scorpions-humanity-hour-i.webp",
+      "tracks": [
+        "Hour I",
+        "The Game of Life",
+        "We Were Born to Fly",
+        "The Future Never Dies",
+        "You're Lovin' Me to Death",
+        "321",
+        "Love Will Keep Us Alive",
+        "We Will Rise Again",
+        "Your Last Song",
+        "Love Is War",
+        "The Cross",
+        "Humanity"
+      ]
+    },
+    {
+      "artist": "Scorpions",
+      "title": "Love at First Sting",
+      "year": 1984,
+      "cover": "./assets/covers/scorpions-love-at-first-sting.webp",
+      "tracks": [
+        "Bad Boys Running Wild",
+        "Rock You Like a Hurricane",
+        "I'm Leaving You",
+        "Coming Home",
+        "The Same Thrill",
+        "Big City Nights",
+        "As Soon As the Good Times Roll",
+        "Crossfire",
+        "Still Loving You"
+      ]
+    },
+    {
+      "artist": "Metallica",
+      "title": "Metallica",
+      "year": 1991,
+      "cover": "./assets/covers/metallica-metallica.webp",
+      "tracks": [
+        "Enter Sandman",
+        "Sad But True",
+        "Holier Than Thou",
+        "The Unforgiven",
+        "Wherever I May Roam",
+        "Don't Tread On Me",
+        "Through the Never",
+        "Nothing Else Matters",
+        "Of Wolf and Man",
+        "The God That Failed",
+        "My Friend of Misery",
+        "The Struggle Within"
+      ]
+    },
+    {
+      "artist": "Nirvana",
+      "title": "Nevermind",
+      "year": 1991,
+      "cover": "./assets/covers/nirvana-nevermind.webp",
+      "tracks": [
+        "Smells Like Teen Spirit",
+        "In Bloom",
+        "Come As You Are",
+        "Breed",
+        "Lithium",
+        "Polly",
+        "Territorial Pissings",
+        "Drain You",
+        "Lounge Act",
+        "Stay Away",
+        "On A Plain",
+        "Something In The Way",
+        "Endless, Nameless"
+      ]
+    },
+    {
+      "artist": "Three Days Grace",
+      "title": "One-X",
+      "year": 2006,
+      "cover": "./assets/covers/three-days-grace-one-x.webp",
+      "tracks": [
+        "It's All Over",
+        "Pain",
+        "Animal I Have Become",
+        "Never Too Late",
+        "On My Own",
+        "Riot",
+        "Get Out Alive",
+        "Let It Die",
+        "Over and Over",
+        "Time of Dying",
+        "Gone Forever",
+        "One-X"
+      ]
+    },
+    {
+      "artist": "Breaking Benjamin",
+      "title": "Phobia",
+      "year": 2006,
+      "cover": "./assets/covers/breaking-benjamin-phobia.webp",
+      "tracks": [
+        "Phobia (Intro)",
+        "The Diary of Jane",
+        "Breath",
+        "You",
+        "Evil Angel",
+        "Until the End",
+        "Dance with the Devil",
+        "Topless",
+        "Here We Are",
+        "Unknown Soldier",
+        "Had Enough",
+        "You Fight Me",
+        "Phobia (Outro)"
+      ]
+    },
+    {
+      "artist": "Deftones",
+      "title": "private music",
+      "year": 2025,
+      "cover": "./assets/covers/deftones-private-music.webp",
+      "tracks": [
+        "my mind is a mountain",
+        "locked club",
+        "ecdysis",
+        "infinite source",
+        "souvenir",
+        "cXz",
+        "i think about you all the time",
+        "milk of the madonna",
+        "cut hands",
+        "~metal dream",
+        "departing the body"
+      ]
+    },
+    {
+      "artist": "Metallica",
+      "title": "Ride the Lightning",
+      "year": 1984,
+      "cover": "./assets/covers/metallica-ride-the-lightning.webp",
+      "tracks": [
+        "Fight Fire with Fire",
+        "Ride the Lightning",
+        "For Whom the Bell Tolls",
+        "Fade to Black",
+        "Trapped Under Ice",
+        "Escape",
+        "Creeping Death",
+        "The Call of Ktulu"
+      ]
+    },
+    {
+      "artist": "Scorpions",
+      "title": "Rock Believer",
+      "year": 2022,
+      "cover": "./assets/covers/scorpions-rock-believer.webp",
+      "tracks": [
+        "Gas In the Tank",
+        "Roots In My Boots",
+        "Knock 'Em Dead",
+        "Rock Believer",
+        "Shining of Your Soul",
+        "Seventh Sun",
+        "Hot and Cold",
+        "When I Lay My Bones to Rest",
+        "Peacemaker",
+        "Call of the Wild",
+        "When You Know (Where You Come From)"
+      ]
+    },
+    {
+      "artist": "Scorpions",
+      "title": "Savage Amusement",
+      "year": 1988,
+      "cover": "./assets/covers/scorpions-savage-amusement.webp",
+      "tracks": [
+        "Don't Stop at the Top",
+        "Rhythm of Love",
+        "Passion Rules the Game",
+        "Media Overkill",
+        "Walking On the Edge",
+        "We Let It Rock...You Let It Roll",
+        "Every Minute Every Day",
+        "Love On the Run",
+        "Believe In Love"
+      ]
+    },
+    {
+      "artist": "Green Day",
+      "title": "Saviors",
+      "year": 2024,
+      "cover": "./assets/covers/green-day-saviors.webp",
+      "tracks": [
+        "The American Dream Is Killing Me",
+        "Look Ma, No Brains!",
+        "Bobby Sox",
+        "One Eyed Bastard",
+        "Dilemma",
+        "1981",
+        "Goodnight Adeline",
+        "Coma City",
+        "Corvette Summer",
+        "Suzie Chapstick",
+        "Strange Days Are Here to Stay",
+        "Living in the ‘20s",
+        "Father to a Son",
+        "Saviors",
+        "Fancy Sauce"
+      ]
+    },
+    {
+      "artist": "Scorpions",
+      "title": "Sting in the Tail",
+      "year": 2010,
+      "cover": "./assets/covers/scorpions-sting-in-the-tail.webp",
+      "tracks": [
+        "Raised On Rock",
+        "Sting In the Tail",
+        "Slave Me",
+        "The Good Die Young",
+        "No Limit",
+        "Rock Zone",
+        "Lorelei",
+        "Turn You On",
+        "Let's Rock!",
+        "SLY",
+        "Spirit of Rock",
+        "The Best Is Yet to Come"
+      ]
+    },
+    {
+      "artist": "Scorpions",
+      "title": "Taken by Force",
+      "year": 1977,
+      "cover": "./assets/covers/scorpions-taken-by-force.webp",
+      "tracks": [
+        "Steamrock Fever (2015 Remaster)",
+        "We'll Burn the Sky (2015 Remaster)",
+        "I've Got to Be Free (2015 Remaster)",
+        "The Riot of Your Time (2015 Remaster)",
+        "The Sails of Charon (2015 Remaster)",
+        "Your Light (2015 Remaster)",
+        "He's a Woman – She's a Man (2015 Remaster)",
+        "Born to Touch Your Feelings (2015 Remaster)",
+        "Suspender Love (2015 Remaster)",
+        "Busy Guys (Demo)",
+        "Believe in Love (Demo Version)",
+        "Midnight Blues Jam (Demo)",
+        "Blue Dream (Unfinished Instrumental)",
+        "Born to Touch Your Feelings (Demo Version)"
+      ]
+    },
+    {
+      "artist": "blink-182",
+      "title": "Take Off Your Pants and Jacket",
+      "year": 2001,
+      "cover": "./assets/covers/blink-182-take-off-your-pants-and-jacket.webp",
+      "tracks": [
+        "Anthem, Pt. 2",
+        "Online Songs",
+        "First Date",
+        "Happy Holidays",
+        "Story of a Lonely Guy",
+        "The Rock Show",
+        "Stay Together for the Kids",
+        "Roller Coaster",
+        "Reckless Abandon",
+        "Every Time I Look for You",
+        "Give Me One Good Reason",
+        "Shut Up",
+        "Please Take Me Home"
+      ]
+    },
+    {
+      "artist": "Scorpions",
+      "title": "Unbreakable",
+      "year": 2004,
+      "cover": "./assets/covers/scorpions-unbreakable.webp",
+      "tracks": [
+        "New Generation",
+        "Love 'em or Leave 'em",
+        "Deep and Dark",
+        "Borderline",
+        "Blood Too Hot",
+        "Maybe I Maybe You",
+        "Someday Is Now",
+        "My City My Town",
+        "Through My Eyes",
+        "Can You Feel It",
+        "This Time",
+        "She Said",
+        "Remember the Good Times (Retro Garage Mix)"
+      ]
+    },
+    {
+      "artist": "Van Halen",
+      "title": "Van Halen",
+      "year": 1978,
+      "cover": "./assets/covers/van-halen-van-halen.webp",
+      "tracks": [
+        "Runnin' with the Devil",
+        "Eruption",
+        "You Really Got Me",
+        "Ain't Talkin' 'Bout Love",
+        "I'm the One",
+        "Jamie's Cryin'",
+        "Atomic Punk",
+        "Feel Your Love Tonight",
+        "Little Dreamer",
+        "Ice Cream Man",
+        "On Fire"
+      ]
+    },
+    {
+      "artist": "Deftones",
+      "title": "Saturday Night Wrist",
+      "year": 2006,
+      "cover": "./assets/covers/deftones-saturday-night-wrist.webp",
+      "tracks": [
+        "Hole In the Earth",
+        "Rapture",
+        "Beware",
+        "Cherry Waves",
+        "Mein",
+        "U,U,D,D,L,R,L,R,A,B,Select,Start",
+        "Xerces",
+        "Rats! Rats! Rats!",
+        "Pink Cellphone",
+        "Combat",
+        "Kimdracula",
+        "Rivière"
+      ]
+    },
+    {
+      "artist": "Nirvana",
+      "title": "In Utero",
+      "year": 1993,
+      "cover": "./assets/covers/nirvana-in-utero.webp",
+      "tracks": [
+        "Serve the Servants",
+        "Scentless Apprentice",
+        "Heart-Shaped Box",
+        "Rape Me",
+        "Frances Farmer Will Have Her Revenge On Seattle",
+        "Dumb",
+        "Very Ape",
+        "Milk It",
+        "Pennyroyal Tea",
+        "Radio Friendly Unit Shifter",
+        "Tourette's",
+        "All Apologies"
+      ]
+    },
+    {
+      "artist": "Disturbed",
+      "title": "Indestructible",
+      "year": 2008,
+      "cover": "./assets/covers/disturbed-indestructible.webp",
+      "tracks": [
+        "Indestructible",
+        "Inside the Fire",
+        "Deceiver",
+        "The Night",
+        "Perfect Insanity",
+        "Haunted",
+        "Enough",
+        "The Curse",
+        "Torn",
+        "Criminal",
+        "Divide",
+        "Façade"
+      ]
+    },
+    {
+      "artist": "blink-182",
+      "title": "Enema of the State",
+      "year": 1999,
+      "cover": "./assets/covers/blink-182-enema-of-the-state.webp",
+      "tracks": [
+        "Dumpweed",
+        "Don't Leave Me",
+        "Aliens Exist",
+        "Going Away To College",
+        "What's My Age Again?",
+        "Dysentery Gary",
+        "Adam's Song",
+        "All the Small Things",
+        "The Party Song",
+        "Mutt",
+        "Wendy Clear",
+        "Anthem"
+      ]
+    },
+    {
+      "artist": "Deftones",
+      "title": "Koi No Yokan",
+      "year": 2012,
+      "cover": "./assets/covers/deftones-koi-no-yokan.webp",
+      "tracks": [
+        "Swerve City",
+        "Romantic Dreams",
+        "Leathers",
+        "Poltergeist",
+        "Entombed",
+        "Graphic Nature",
+        "Tempest",
+        "Gauze",
+        "Rosemary",
+        "Goon Squad",
+        "What Happened to You?"
+      ]
+    }
+  ]
+}
